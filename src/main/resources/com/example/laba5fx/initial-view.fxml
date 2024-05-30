@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.MainController">
+   <children>
+      <TabPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" tabClosingPolicy="UNAVAILABLE" tabMinHeight="30.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <tabs>
+            <Tab onSelectionChanged="#diagnosesTab" text="%Tab.Diagnoses">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="459.0" prefWidth="777.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.Diagnoses">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <TableView fx:id="tableDiagnoses" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickDiagnoses" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="nameColumn" prefWidth="688.000000166893" text="%Column.Name" />
+                                       </columns>
+                                    </TableView>
+                                    <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="250.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="nameTextField" prefHeight="30.0" prefWidth="183.0" promptText="%Text.Name" />
+                                          <Button onAction="#addDiagnosis" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deleteDiagnosis" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updateDiagnosis" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+            <Tab onSelectionChanged="#patientsTab" text="%Tab.Patients">
+               <content>
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.Patients">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <TableView fx:id="tablePatients" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickPatients" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="lastNameColumn2" prefWidth="121.60003662109375" text="%Column.LastName" />
+                                          <TableColumn fx:id="firstNameColumn2" prefWidth="127.99999237060547" text="%Column.FirstName" />
+                                          <TableColumn fx:id="middleNameColumn1" prefWidth="99.20001220703125" text="%Column.MiddleName" />
+                                          <TableColumn fx:id="ageColumn" prefWidth="87.0" text="%Column.Age" />
+                                          <TableColumn fx:id="addressColumn" prefWidth="133.0" text="%Column.Address" />
+                                          <TableColumn fx:id="patientCategoryIdColumn" prefWidth="117.5999877929687" text="%Column.Category" />
+                                       </columns>
+                                    </TableView>
+                                    <VBox alignment="TOP_CENTER" prefWidth="250.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="lastNameTextField1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.LastName" />
+                                          <TextField fx:id="firstNameTextField1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.FirstName" />
+                                          <TextField fx:id="middleNameTextField1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.MiddleName" />
+                                          <TextField fx:id="ageTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Age" />
+                                          <TextField fx:id="addressTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Address" />
+                                          <ComboBox fx:id="PatientCategoryIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Category" />
+                                          <Button onAction="#addPatient" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deletePatient" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updatePatient" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+               </content></Tab>
+            <Tab onSelectionChanged="#doctorsTab" text="%Tab.Doctors">
+               <content>
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.Doctors">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <TableView fx:id="tableDoctors" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickDoctors" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="lastNameColumn" prefWidth="121.60003662109375" text="%Column.LastName" />
+                                          <TableColumn fx:id="firstNameColumn" prefWidth="118.4000015258789" text="%Column.FirstName" />
+                                          <TableColumn fx:id="middleNameColumn" prefWidth="128.8000030517578" text="%Column.MiddleName" />
+                                          <TableColumn fx:id="doctorSpecialtiesIdColumn" prefWidth="159.19998168945312" text="%Column.Specialty" />
+                                          <TableColumn fx:id="doctorCategoryIdColumn" prefWidth="159.99993896484375" text="%Column.Category" />
+                                       </columns>
+                                    </TableView>
+                                    <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="250.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="lastNameTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.LastName" />
+                                          <TextField fx:id="firstNameTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.FirstName" />
+                                          <TextField fx:id="middleNameTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.MiddleName" />
+                                          <ComboBox fx:id="DoctorSpecialtyIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Specialty" />
+                                          <ComboBox fx:id="DoctorCategoryIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Category" />
+                                          <Button onAction="#addDoctor" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deleteDoctor" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updateDoctor" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+               </content></Tab>
+            <Tab onSelectionChanged="#appealsTab" text="%Tab.Appeals">
+               <content>
+                  <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.Appeals">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <TableView fx:id="tableAppeals" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickAppeals" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="fullNameColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="399.20003068447113" text="%Column.PatientId" />
+                                          <TableColumn fx:id="dataColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="288.7999572753906" text="%Column.Date" />
+                                       </columns>
+                                    </TableView>
+                                    <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="250.0" spacing="12.0">
+                                       <children>
+                                          <ComboBox fx:id="PatientIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.PatientId" />
+                                          <DatePicker fx:id="dataPicker" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Date" />
+                                          <Button alignment="CENTER" contentDisplay="CENTER" onAction="#addAppeal" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" textAlignment="CENTER" />
+                                          <Button alignment="CENTER" contentDisplay="CENTER" onAction="#deleteAppeal" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" textAlignment="CENTER" />
+                                          <Button alignment="CENTER" onAction="#updateAppeal" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" textAlignment="CENTER" />
+                                       </children>
+                                       <HBox.margin>
+                                          <Insets />
+                                       </HBox.margin>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#TreatmentsTab" text="%Tab.Treatments">
+               <content>
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.Treatments">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <TableView fx:id="tableTreatments" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickTreatments" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="appealIdColumn" prefWidth="135.0" text="%Column.AppealId" />
+                                          <TableColumn fx:id="doctorIdColumn" prefWidth="271.19996643066406" text="%Column.DoctorId" />
+                                          <TableColumn fx:id="diagnosisIdColumn" prefWidth="170.39999389648438" text="%Column.DiagnosisId" />
+                                          <TableColumn fx:id="priceColumn" prefWidth="111.20001220703125" text="%Column.Price" />
+                                       </columns>
+                                    </TableView>
+                                    <VBox alignment="TOP_CENTER" prefWidth="250.0" spacing="12.0">
+                                       <children>
+                                          <ComboBox fx:id="AppealIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.AppealId" />
+                                          <ComboBox fx:id="DoctorIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.DoctorId" />
+                                          <ComboBox fx:id="DiagnosisIdComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.DiagnosisId" />
+                                          <TextField fx:id="priceTextField" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Price" />
+                                          <Button onAction="#addTreatment" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deleteTreatment" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updateTreatment" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#patientCategoriesTab" text="%Tab.PatientCategories">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.PatientCategories">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="400.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="nameTextField3" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Name" />
+                                          <TextField fx:id="discountTextField" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Discount" />
+                                          <Button onAction="#addPatientCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deletePatientCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updatePatientCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                          <TableView fx:id="tablePatientCategories" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickPatientCategories" prefHeight="243.0" prefWidth="397.0" VBox.vgrow="ALWAYS">
+                                             <columns>
+                                                <TableColumn fx:id="lastNameColumn1" prefWidth="271.0" text="%Column.Name" />
+                                                <TableColumn fx:id="firstNameColumn1" prefWidth="123.0" text="%Column.Discount" />
+                                             </columns>
+                                          </TableView>
+                                       </children>
+                                    </VBox>
+                                    <TableView fx:id="tablePatients1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="lastNameColumn21" prefWidth="216.0" text="%Column.PatientId" />
+                                          <TableColumn fx:id="ageColumn1" prefWidth="70.0" text="%Column.Age" />
+                                          <TableColumn fx:id="addressColumn1" prefWidth="257.0" text="%Column.Address" />
+                                       </columns>
+                                    </TableView>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+            <Tab onSelectionChanged="#doctorCategoriesTab" text="%Tab.DoctorCategories">
+              <content>
+                <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.DoctorCategories">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="400.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="nameTextField1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Name" />
+                                          <Button onAction="#addDoctorCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deleteDoctorCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updateDoctorCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                          <TableView fx:id="tableDoctorCategories" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickDoctorCategories" prefHeight="335.0" prefWidth="484.0" VBox.vgrow="ALWAYS">
+                                             <columns>
+                                                <TableColumn fx:id="nameColumn1" prefWidth="399.0" text="%Column.Name" />
+                                             </columns>
+                                          </TableView>
+                                       </children>
+                                    </VBox>
+                                    <TableView fx:id="tableDoctors1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="503.0" prefWidth="463.0" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="lastNameColumn3" prefWidth="297.0" text="%Column.DoctorId" />
+                                          <TableColumn fx:id="doctorSpecialtiesIdColumn1" prefWidth="284.0" text="%Column.Specialty" />
+                                       </columns>
+                                    </TableView>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+            <Tab onSelectionChanged="#doctorSpecialtiesTab" text="%Tab.DoctorSpecialties">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="%Label.DoctorSpecialties">
+                                 <font>
+                                    <Font name="Verdana" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                                 <children>
+                                    <VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="400.0" spacing="12.0">
+                                       <children>
+                                          <TextField fx:id="nameTextField2" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Name" />
+                                          <Button onAction="#addDoctorSpecialty" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                                          <Button onAction="#deleteDoctorSpecialty" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                                          <Button onAction="#updateDoctorSpecialty" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                                          <TableView fx:id="tableDoctorSpecialties" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#clickDoctorSpecialties" prefHeight="92.0" prefWidth="400.0" VBox.vgrow="ALWAYS">
+                                             <columns>
+                                                <TableColumn fx:id="nameColumn2" prefWidth="399.0" text="%Column.Name" />
+                                             </columns>
+                                          </TableView>
+                                       </children>
+                                    </VBox>
+                                    <TableView fx:id="tableDoctors11" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="503.0" prefWidth="463.0" HBox.hgrow="ALWAYS">
+                                       <columns>
+                                          <TableColumn fx:id="lastNameColumn31" prefWidth="297.0" text="%Column.DoctorId" />
+                                          <TableColumn fx:id="doctorCategoriesIdColumn11" prefWidth="242.0" text="%Column.Category" />
+                                       </columns>
+                                    </TableView>
+                                 </children>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</AnchorPane>

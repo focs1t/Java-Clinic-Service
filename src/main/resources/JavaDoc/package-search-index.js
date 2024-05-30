@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.laba5fx","l":"Controllers"},{"m":"com.example.laba5fx","l":"Dao"},{"m":"com.example.laba5fx","l":"Models"},{"m":"com.example.laba5fx","l":"Service"},{"m":"com.example.laba5fx","l":"utils"}];updateSearchResults();

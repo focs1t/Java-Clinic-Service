@@ -1,0 +1,1070 @@
+29.05.2024 18:26:36.353 [JavaFX Application Thread] INFO  C.MainApplication - Приложение запущено
+29.05.2024 18:26:36.720 [JavaFX Application Thread] DEBUG C.MainApplication - Соединение к БД получено
+29.05.2024 18:26:36.725 [JavaFX Application Thread] INFO  C.MainApplication - Загружены ресурсы для локали fr
+29.05.2024 18:26:36.775 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.777 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.779 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.781 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.783 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.785 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.787 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.789 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.791 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.792 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.793 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.796 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.798 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.799 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:36.800 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Данные из файла statements.properties получены
+29.05.2024 18:26:37.095 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Диагнозы'
+29.05.2024 18:26:37.096 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Загрузка коллекции
+29.05.2024 18:26:37.199 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Создание списка объектов
+29.05.2024 18:26:37.201 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Список объектов успешно создан
+29.05.2024 18:26:37.201 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Коллекция успешно загружена
+29.05.2024 18:26:41.046 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Диагнозы'
+29.05.2024 18:26:41.047 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Загрузка коллекции
+29.05.2024 18:26:41.047 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Создание списка объектов
+29.05.2024 18:26:41.047 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Список объектов успешно создан
+29.05.2024 18:26:41.047 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Коллекция успешно загружена
+29.05.2024 18:26:41.049 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:26:41.049 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:26:41.053 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:26:41.055 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:26:41.055 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:26:41.064 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.101 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.106 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.107 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.109 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.110 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.111 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.112 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.113 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.115 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.116 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.118 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.119 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.119 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.126 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.126 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.131 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.132 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.136 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.137 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.514 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:26:41.515 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:26:41.515 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:26:41.515 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:26:41.515 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:26:41.516 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:26:41.516 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:26:41.524 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:26:41.526 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:26:41.526 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:26:41.531 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:26:41.537 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:26:41.537 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.540 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.546 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:26:41.546 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:26:41.546 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.547 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.599 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.600 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.601 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.601 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.602 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.603 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.604 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.604 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.605 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.606 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.606 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.606 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.607 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.607 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:41.608 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:26:41.608 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:26:42.278 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:26:42.278 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:26:42.279 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:26:42.279 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:26:42.279 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:26:42.280 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:26:42.280 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:26:42.288 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:26:42.294 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:26:42.294 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:26:42.297 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.299 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.301 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.301 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.302 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.302 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.303 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.304 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.306 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.306 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.323 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:26:42.324 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:26:42.324 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:26:42.325 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:26:42.326 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:26:42.326 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:26:42.327 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:26:42.327 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:26:42.707 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:26:42.709 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:26:42.709 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:26:42.709 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:26:42.709 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:26:42.710 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:26:42.710 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:26:42.718 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:26:42.719 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:26:42.720 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:26:42.722 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:26:42.723 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:26:42.723 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:26:42.723 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:26:42.724 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:26:42.724 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:26:42.727 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:26:42.728 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:26:42.728 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:26:42.728 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:26:42.728 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:26:42.729 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:26:42.771 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.772 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.772 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.773 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.773 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.774 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:42.774 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:26:42.775 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:26:43.078 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:26:43.079 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:26:43.080 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:26:43.080 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:26:43.080 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:26:43.081 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:26:43.081 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:26:43.082 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:26:43.082 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:43.082 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:43.097 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:26:43.097 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:26:43.099 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:26:43.099 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:26:43.099 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:26:43.100 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:26:43.100 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:26:43.101 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:26:43.101 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:26:43.102 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:26:43.102 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:26:43.103 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:26:43.508 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:26:43.508 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:26:43.508 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:26:43.509 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:43.509 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:43.510 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:26:43.510 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:26:43.510 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:26:43.510 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:43.510 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:44.432 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:26:44.432 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:26:44.433 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:26:44.433 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:44.433 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:44.433 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Специальности врачей'
+29.05.2024 18:26:44.433 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Загрузка коллекции
+29.05.2024 18:26:44.434 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:26:44.434 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:26:44.434 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:26:45.129 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Специальности врачей'
+29.05.2024 18:26:45.130 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Загрузка коллекции
+29.05.2024 18:26:45.130 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:26:45.130 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:26:45.130 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:26:45.131 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:26:45.131 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:26:45.131 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:26:45.132 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:45.132 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:51.577 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:26:51.577 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:26:51.578 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:26:51.578 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:26:51.579 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:26:51.579 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:26:51.579 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:26:51.579 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:26:51.580 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:27:04.863 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:27:04.863 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:27:04.864 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:27:04.864 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:27:04.864 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:27:04.865 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:27:04.865 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:27:04.865 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:27:04.865 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:27:04.866 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:27:04.879 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:04.881 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:04.881 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:04.882 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:04.882 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:04.882 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:27:04.883 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:04.884 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:04.884 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:04.884 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:04.884 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:04.885 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:27:09.092 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Лечение'
+29.05.2024 18:27:10.869 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:27:10.870 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:27:10.870 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:27:10.870 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:27:10.870 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:27:10.871 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:27:10.871 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:27:10.872 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:27:10.872 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:27:10.872 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:27:10.878 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:10.879 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:10.879 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:10.879 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:10.880 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:10.881 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:27:10.881 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:10.882 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:10.882 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:10.883 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:10.883 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:10.883 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:27:11.566 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:27:11.567 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:27:11.567 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:27:11.567 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:27:11.567 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:27:11.568 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:27:11.568 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:27:11.568 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:27:11.568 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:27:11.568 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:27:11.955 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:27:11.955 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:27:11.955 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:27:11.956 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:27:11.956 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:27:11.956 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Специальности врачей'
+29.05.2024 18:27:11.956 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Загрузка коллекции
+29.05.2024 18:27:11.956 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:27:11.956 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:27:11.957 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:27:43.387 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Специальности врачей'
+29.05.2024 18:27:43.387 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:27:43.387 [JavaFX Application Thread] INFO  S.ServiceDoctorSpecialties - Поиск
+29.05.2024 18:27:43.388 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID пациентов
+29.05.2024 18:27:43.389 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:27:43.389 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:27:43.389 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:27:43.389 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект пациентов успешно получен
+29.05.2024 18:27:43.389 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:27:43.390 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:43.390 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:43.393 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:43.393 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:43.780 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Специальности врачей'
+29.05.2024 18:27:43.780 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:27:43.780 [JavaFX Application Thread] INFO  S.ServiceDoctorSpecialties - Поиск
+29.05.2024 18:27:43.780 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID пациентов
+29.05.2024 18:27:43.781 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:27:43.782 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:27:43.782 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:27:43.782 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект пациентов успешно получен
+29.05.2024 18:27:43.782 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:27:45.092 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Специальности врачей'
+29.05.2024 18:27:45.092 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:27:45.092 [JavaFX Application Thread] INFO  S.ServiceDoctorSpecialties - Поиск
+29.05.2024 18:27:45.092 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID пациентов
+29.05.2024 18:27:45.093 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:27:45.093 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:27:45.093 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:27:45.093 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект пациентов успешно получен
+29.05.2024 18:27:45.093 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:27:45.100 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:45.101 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:45.101 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:45.102 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:45.102 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:45.103 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:45.103 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:27:45.110 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:27:56.585 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Специальности врачей'
+29.05.2024 18:27:56.586 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Загрузка коллекции
+29.05.2024 18:27:56.586 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:27:56.586 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:27:56.586 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:27:56.587 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:27:56.587 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:27:56.588 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:27:56.588 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:27:56.588 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:27:56.600 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:56.600 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:56.600 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:56.602 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:56.602 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:56.602 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:27:56.603 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:27:56.603 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:27:56.603 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:27:56.604 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:27:56.604 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:27:56.604 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:02.403 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Лечение'
+29.05.2024 18:28:02.405 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:03.308 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Лечение'
+29.05.2024 18:28:03.308 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:05.293 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:28:05.294 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:28:05.294 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:28:05.294 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:28:05.294 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:28:05.295 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:05.295 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:05.295 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:05.295 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:05.295 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:05.310 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:05.311 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:05.311 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:05.311 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:05.311 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:05.312 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:05.314 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:05.969 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:05.969 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:05.969 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:05.969 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:05.969 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:05.969 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:28:05.970 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:28:05.970 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:28:05.970 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:28:05.970 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:28:05.982 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:05.983 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:05.983 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:05.983 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:05.983 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:05.984 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:05.984 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:05.984 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:05.985 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:05.985 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:05.985 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:05.985 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:06.916 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:28:06.916 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:28:06.916 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:28:06.917 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:28:06.917 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:28:06.917 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:06.917 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:06.917 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:06.918 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:06.918 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:06.926 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:06.926 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:06.926 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:06.927 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:06.927 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:06.927 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:06.927 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:06.928 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:06.935 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:06.935 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:06.935 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:06.936 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:10.181 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:10.181 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:10.182 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:10.182 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:10.183 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:10.183 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:10.183 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:10.183 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:10.183 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:10.597 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:10.597 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:10.597 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:10.598 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:10.598 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:10.598 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:10.598 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:10.598 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:10.599 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:11.089 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:11.089 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:11.089 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:11.089 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:11.090 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:11.090 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:11.090 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:11.090 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:11.090 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:11.607 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:11.607 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:11.608 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:11.608 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:11.609 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:11.609 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:11.609 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:11.609 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:11.610 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:12.149 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:12.150 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:12.150 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:12.150 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:12.151 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:12.151 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:12.151 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:12.151 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:12.151 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:12.499 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:12.499 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:12.500 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:12.500 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:13.365 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:13.365 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:13.366 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:13.366 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:13.752 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:13.752 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:13.753 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:13.753 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:13.753 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:13.754 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:13.754 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:13.754 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:13.754 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:14.221 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:14.221 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:14.222 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:14.222 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:15.120 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:15.120 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:15.120 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:15.120 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:15.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:15.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:15.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:15.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:15.121 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:15.789 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:15.789 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:15.790 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:15.790 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:16.135 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:16.136 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:16.136 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:16.136 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:16.136 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:16.137 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:16.137 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:16.137 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:16.137 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:17.365 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:17.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:17.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:17.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:17.366 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:17.367 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:28:17.367 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:28:17.368 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:28:17.368 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:28:17.368 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:28:17.382 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.383 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.383 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.383 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.384 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.384 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.384 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.384 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.386 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.386 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.386 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.386 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.387 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.387 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.387 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.387 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.937 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:28:17.937 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:28:17.938 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:28:17.938 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:28:17.938 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:28:17.938 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:17.938 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:17.939 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:17.939 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:17.939 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:17.950 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.950 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.950 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.951 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.951 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.951 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.951 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.952 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.952 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.953 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.953 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.953 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.953 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.954 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:17.954 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:17.954 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:18.895 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:18.896 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:18.896 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:18.896 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:18.896 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:18.897 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:18.897 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:18.897 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:18.897 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:19.290 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:19.290 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:19.290 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:19.290 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:19.291 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:19.291 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:19.291 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:19.291 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:19.291 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:19.677 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:19.677 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:19.678 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:19.678 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:20.202 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:20.202 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:20.203 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:20.203 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:20.718 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:20.718 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:20.718 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:21.120 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:21.120 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:21.120 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:21.120 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:21.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:21.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:21.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:21.121 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:21.121 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:26.985 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:26.985 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:26.986 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:26.986 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:26.986 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:26.986 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:28:26.986 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:28:26.987 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:28:26.987 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:28:26.987 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:28:26.998 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:26.998 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:26.999 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:26.999 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:26.999 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:27.000 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:27.000 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:27.001 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:27.001 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:27.001 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:27.001 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:27.001 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:27.900 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:28:27.900 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:28:27.901 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:27.901 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:27.903 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:27.916 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:27.916 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:27.916 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:27.917 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:27.917 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:27.917 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:27.917 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:28:27.918 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:28:27.918 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:28:27.918 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:28:27.918 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:28:27.918 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:28:27.920 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:27.920 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:27.921 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:27.921 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:27.921 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:27.921 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:27.921 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:27.923 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.396 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:28.397 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:28.397 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:28.397 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:28.397 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:28.398 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:28.398 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:28.398 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:28.398 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:28.398 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:28.413 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.413 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.413 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.413 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.414 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.414 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.414 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.415 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.416 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:28.416 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:28.417 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:28.417 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:28.417 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:28.417 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:28.418 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:28.418 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:28.968 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:28.969 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:28.969 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:28.969 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:28.969 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:28.969 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:28.970 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:28.970 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:28.970 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:28.970 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:28.973 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.973 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:28.975 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:28.976 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:28.977 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:28.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:28.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:28.977 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:28.977 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:28.978 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:28.978 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:29.366 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:29.366 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:29.367 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:29.367 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:29.367 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:29.367 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:29.367 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:29.368 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:29.368 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:29.368 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:29.373 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:29.374 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:29.374 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:29.374 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:29.374 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:29.375 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:29.375 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:29.375 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:29.377 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:29.377 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:29.377 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:29.377 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:29.378 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:29.378 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:29.378 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:29.379 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:30.524 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:30.524 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:30.524 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:30.524 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:30.524 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:30.525 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:30.525 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:30.525 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:30.525 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:30.525 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:30.526 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:30.527 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:30.527 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:30.527 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:30.527 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:30.528 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:30.528 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:30.528 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:30.529 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:30.530 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:30.530 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:30.530 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:30.530 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:30.530 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:30.531 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:30.531 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:31.187 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:31.187 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:31.187 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:31.188 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:31.188 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:31.196 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:31.197 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:31.197 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:31.197 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:31.198 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:31.198 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:31.198 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:31.198 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:31.199 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:31.200 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:31.200 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:31.200 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:31.201 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:31.201 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:31.201 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:31.201 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:32.528 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:32.528 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:32.529 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:32.529 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:32.529 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:32.529 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:32.529 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:32.530 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:32.530 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:32.530 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:32.541 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:32.541 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:32.542 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:32.544 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:32.544 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:32.544 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:32.544 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:32.545 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:32.545 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:32.545 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:32.545 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.093 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:28:33.094 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:28:33.094 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:28:33.094 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:28:33.095 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:28:33.095 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:33.095 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:33.096 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:33.096 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:33.096 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:33.100 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:33.101 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:33.101 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:33.102 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:33.102 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:33.103 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:33.103 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:28:33.103 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:28:33.106 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:33.106 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:33.106 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.107 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.107 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:33.107 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:33.107 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.107 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.798 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Врачи'
+29.05.2024 18:28:33.798 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Загрузка коллекции
+29.05.2024 18:28:33.799 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Создание списка объектов
+29.05.2024 18:28:33.799 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Список объектов успешно создан
+29.05.2024 18:28:33.799 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Коллекция успешно загружена
+29.05.2024 18:28:33.799 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:28:33.800 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:28:33.800 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:28:33.800 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:28:33.800 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:28:33.804 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:33.805 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:33.805 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.805 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.806 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Поиск по ID
+29.05.2024 18:28:33.806 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Объект успешно получен
+29.05.2024 18:28:33.806 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.806 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.808 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.809 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.809 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.809 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.809 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.810 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.810 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.810 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.810 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:33.811 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:33.813 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:38.374 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Пациенты'
+29.05.2024 18:28:38.374 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:39.016 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Пациенты'
+29.05.2024 18:28:39.016 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:41.420 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:28:41.421 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:28:41.421 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:28:41.421 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:28:41.421 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:28:41.422 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:28:41.422 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:41.422 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:28:41.422 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:41.422 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:41.445 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.445 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.445 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.446 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.446 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.446 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.446 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.447 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.447 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.447 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.447 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.448 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.448 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.448 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:41.448 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:41.448 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:42.977 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории врачей'
+29.05.2024 18:28:42.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:42.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Создание списка объектов
+29.05.2024 18:28:42.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:42.977 [JavaFX Application Thread] DEBUG D.DoctorCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:42.977 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:42.977 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:42.978 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:42.978 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:42.978 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:44.278 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:44.278 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:44.279 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:44.279 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:49.735 [JavaFX Application Thread] INFO  C.MainController - Нажатие на кнопку 'Изменить'
+29.05.2024 18:28:49.735 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Обновление объекта
+29.05.2024 18:28:50.109 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно обновлен
+29.05.2024 18:28:50.110 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Обновление
+29.05.2024 18:28:50.110 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:50.110 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:50.110 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:50.110 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:50.110 [JavaFX Application Thread] DEBUG C.MainController - Успешное обновление записи
+29.05.2024 18:28:52.882 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории пациентов'
+29.05.2024 18:28:52.882 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+29.05.2024 18:28:52.882 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Поиск
+29.05.2024 18:28:52.882 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID пациентов
+29.05.2024 18:28:52.883 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:52.883 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:52.883 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:52.883 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект пациентов успешно получен
+29.05.2024 18:28:52.883 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+29.05.2024 18:28:53.802 [JavaFX Application Thread] INFO  C.MainController - Нажатие на кнопку 'Удалить'
+29.05.2024 18:28:53.803 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Удаление объекта
+29.05.2024 18:28:53.812 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно удален
+29.05.2024 18:28:53.812 [JavaFX Application Thread] INFO  S.ServicePatientCategories - Удаление
+29.05.2024 18:28:53.818 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:53.818 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:53.818 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:53.818 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:53.818 [JavaFX Application Thread] DEBUG C.MainController - Объект успешно удален
+29.05.2024 18:28:55.224 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:28:55.224 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:28:55.224 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:28:55.224 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:28:55.224 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:28:55.224 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:28:55.225 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:28:55.225 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:28:55.225 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:28:55.225 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:28:55.238 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:55.238 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:55.239 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:55.239 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:55.239 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:55.239 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:55.240 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:28:55.240 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:28:56.531 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Пациенты'
+29.05.2024 18:28:56.829 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Пациенты'
+29.05.2024 18:29:19.263 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Пациенты'
+29.05.2024 18:29:19.263 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Загрузка коллекции
+29.05.2024 18:29:19.263 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Создание списка объектов
+29.05.2024 18:29:19.263 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Список объектов успешно создан
+29.05.2024 18:29:19.263 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Коллекция успешно загружена
+29.05.2024 18:29:19.264 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:29:19.264 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:29:19.264 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:29:19.264 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:29:19.264 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:29:19.283 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:29:19.284 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:29:19.284 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:29:19.285 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:29:19.285 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:29:19.285 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:29:19.285 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:29:19.285 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:29:19.286 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:29:19.286 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:29:19.286 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:29:19.286 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:29:19.288 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:29:19.288 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:29:19.288 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:29:19.289 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:29:19.289 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:29:19.289 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:29:19.289 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Поиск по ID
+29.05.2024 18:29:19.290 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Объект успешно получен
+29.05.2024 18:29:20.042 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Лечение'
+29.05.2024 18:29:20.042 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Загрузка коллекции
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Создание списка объектов
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Список объектов успешно создан
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG Dao.TreatmentsDao - Коллекция успешно загружена
+29.05.2024 18:29:20.043 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:29:20.043 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:29:20.045 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:29:20.045 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:29:20.045 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:29:20.045 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:29:20.045 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Поиск по ID
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Объект успешно получен
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Поиск по ID
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.DoctorsDao - Объект успешно получен
+29.05.2024 18:29:20.046 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Поиск по ID
+29.05.2024 18:29:20.047 [JavaFX Application Thread] DEBUG Dao.DiagnosesDao - Объект успешно получен
+29.05.2024 18:29:20.927 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории пациентов'
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Загрузка коллекции
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Создание списка объектов
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Список объектов успешно создан
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG D.PatientCategoriesDao - Коллекция успешно загружена
+29.05.2024 18:29:20.927 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:29:20.927 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:29:20.942 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:20.943 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:20.943 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:20.944 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:20.944 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:20.944 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:20.944 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:20.944 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:21.956 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Обращения'
+29.05.2024 18:29:21.956 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Загрузка коллекции
+29.05.2024 18:29:21.957 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Создание списка объектов
+29.05.2024 18:29:21.957 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Список объектов успешно создан
+29.05.2024 18:29:21.957 [JavaFX Application Thread] DEBUG Dao.AppealsDao - Коллекция успешно загружена
+29.05.2024 18:29:21.957 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Специальности врачей'
+29.05.2024 18:29:21.957 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Загрузка коллекции
+29.05.2024 18:29:21.957 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Создание списка объектов
+29.05.2024 18:29:21.958 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Список объектов успешно создан
+29.05.2024 18:29:21.958 [JavaFX Application Thread] DEBUG D.DoctorSpecialtiesDao - Коллекция успешно загружена
+29.05.2024 18:29:21.963 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:21.965 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:21.965 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:21.966 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:21.966 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:21.966 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
+29.05.2024 18:29:21.966 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Поиск по ID
+29.05.2024 18:29:21.967 [JavaFX Application Thread] DEBUG Dao.PatientsDao - Объект успешно получен
